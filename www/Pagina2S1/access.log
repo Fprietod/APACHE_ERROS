@@ -1,0 +1,83 @@
+192.168.1.68 - - [31/Aug/2019:01:16:31 -0500] "GET /index HTTP/1.1" 404 498 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.69 - - [31/Aug/2019:01:17:03 -0500] "GET / HTTP/1.1" 200 705 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:03 -0500] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://www.escom1.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:03 -0500] "GET /icons/folder.gif HTTP/1.1" 200 508 "http://www.escom1.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:04 -0500] "GET /favicon.ico HTTP/1.1" 404 505 "http://www.escom1.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET / HTTP/1.1" 200 1056 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /css/estilos.css HTTP/1.1" 200 841 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /css/font-awesome.css HTTP/1.1" 200 7776 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /css/Menesc.css HTTP/1.1" 200 889 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /js/jquery-3.1.0.min.js HTTP/1.1" 200 30383 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /js/main.js HTTP/1.1" 200 979 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /img/1.jpg HTTP/1.1" 200 386217 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /img/2.jpg HTTP/1.1" 200 709893 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /img/3.jpg HTTP/1.1" 200 1345237 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /img/4.jpg HTTP/1.1" 200 974776 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77423 "http://www.escom2.com/css/font-awesome.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:14 -0500] "GET /favicon.ico HTTP/1.1" 404 505 "http://www.escom2.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+::1 - - [31/Aug/2019:01:17:26 -0500] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.25 (Debian) (internal dummy connection)"
+::1 - - [31/Aug/2019:01:17:27 -0500] "OPTIONS * HTTP/1.0" 200 126 "-" "Apache/2.4.25 (Debian) (internal dummy connection)"
+192.168.1.69 - - [31/Aug/2019:01:17:52 -0500] "GET / HTTP/1.1" 200 704 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:52 -0500] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:52 -0500] "GET /icons/folder.gif HTTP/1.1" 200 508 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:52 -0500] "GET /favicon.ico HTTP/1.1" 404 503 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:55 -0500] "GET / HTTP/1.1" 200 703 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:55 -0500] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:55 -0500] "GET /icons/folder.gif HTTP/1.1" 200 508 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:17:55 -0500] "GET /favicon.ico HTTP/1.1" 404 503 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:18:01 -0500] "GET / HTTP/1.1" 200 704 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:18:01 -0500] "GET /icons/blank.gif HTTP/1.1" 200 431 "http://192.168.1.84/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:18:01 -0500] "GET /icons/folder.gif HTTP/1.1" 200 508 "http://192.168.1.84/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:18:01 -0500] "GET /favicon.ico HTTP/1.1" 404 503 "http://192.168.1.84/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.69 - - [31/Aug/2019:01:18:10 -0500] "GET / HTTP/1.1" 200 703 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET / HTTP/1.1" 200 2107 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Css/font-awesome.min.css HTTP/1.1" 200 7390 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Css/Estilo1.css HTTP/1.1" 200 879 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Multimedia/Escom_B.png HTTP/1.1" 200 226625 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Multimedia/N3.png HTTP/1.1" 200 14572 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Multimedia/N4.png HTTP/1.1" 200 9424 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Multimedia/N2.jpg HTTP/1.1" 200 72571 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Multimedia/N1.png HTTP/1.1" 200 25840 "http://192.168.1.80/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Css/Contacto.css HTTP/1.1" 200 496 "http://192.168.1.80/Css/Estilo1.css" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Css/Banner.css HTTP/1.1" 200 747 "http://192.168.1.80/Css/Estilo1.css" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Css/Noticias.css HTTP/1.1" 200 540 "http://192.168.1.80/Css/Estilo1.css" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Css/Menu.css HTTP/1.1" 200 788 "http://192.168.1.80/Css/Estilo1.css" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /Multimedia/Escom.png HTTP/1.1" 200 2308 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:18 -0500] "GET /fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77423 "http://192.168.1.80/Css/font-awesome.min.css" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET / HTTP/1.1" 200 1056 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /css/font-awesome.css HTTP/1.1" 200 7777 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /css/Menesc.css HTTP/1.1" 200 890 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /css/estilos.css HTTP/1.1" 200 841 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /js/main.js HTTP/1.1" 200 979 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /js/jquery-3.1.0.min.js HTTP/1.1" 200 30383 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /img/1.jpg HTTP/1.1" 200 386216 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /img/2.jpg HTTP/1.1" 200 709892 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /img/4.jpg HTTP/1.1" 200 974776 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /img/3.jpg HTTP/1.1" 200 1345237 "http://192.168.1.82/" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+192.168.1.68 - - [31/Aug/2019:01:21:25 -0500] "GET /fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77423 "http://192.168.1.82/css/font-awesome.css" "Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET / HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Css/font-awesome.min.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Css/Estilo1.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Multimedia/N2.jpg HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Multimedia/Escom_B.png HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Css/Menu.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Css/Banner.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Multimedia/N1.png HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Css/Contacto.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Css/Noticias.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Multimedia/N4.png HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Multimedia/N3.png HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /Multimedia/Escom.png HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:04 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET / HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /css/estilos.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /css/font-awesome.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /css/Menesc.css HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /js/jquery-3.1.0.min.js HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /js/main.js HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /img/1.jpg HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /img/2.jpg HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /img/3.jpg HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /img/4.jpg HTTP/1.1 Estado: -> 200
+Fecha y hora del cliente: -> [01/Sep/2019:23:17:54 -0500] IP: -> - 192.168.1.68 Recurso solicitado: -> GET /favicon.ico HTTP/1.1 Estado: -> 404
